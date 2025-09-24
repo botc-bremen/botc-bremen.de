@@ -1069,7 +1069,7 @@
     "end": "2025-09-25T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "https://events.botc-bremen.de/jetzthier250925/",
+    "url": "https://pretix.botc-bremen.de/jetzthier250925/",
     "storyTellers": [
       "Dennis",
       "Jessica"
@@ -1097,9 +1097,10 @@
     "end": "2025-10-09T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier251009/",
     "storyTellers": [
-      "Dennis"
+      "Dennis",
+      "Jessica"
     ],
     "languages": [],
     "extra": null
@@ -1110,7 +1111,7 @@
     "end": "2025-10-18T20:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh251018/",
     "storyTellers": [],
     "languages": [],
     "extra": null
@@ -1121,9 +1122,10 @@
     "end": "2025-10-23T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier251023/",
     "storyTellers": [
-      "Dennis"
+      "Dennis",
+      "Jessica"
     ],
     "languages": [],
     "extra": null
