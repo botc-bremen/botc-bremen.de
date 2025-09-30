@@ -1085,7 +1085,9 @@
     "locationUrl": "https://www.openstreetmap.org/way/184724875",
     "url": "https://kreativ-spiel.de/besuchen/",
     "storyTellers": [
-      "Fr: ?? • Sa: Dennis",
+      "Fr: Clemens",
+      "Sorel • Sa: Clemens",
+      "Dennis",
       "Jessica • So: Dennis"
     ],
     "languages": [],
@@ -1208,7 +1210,8 @@
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
     "url": "",
     "storyTellers": [
-      "Dennis"
+      "Dennis",
+      "Jessica"
     ],
     "languages": [],
     "extra": null
@@ -1221,7 +1224,8 @@
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
     "url": "",
     "storyTellers": [
-      "Dennis"
+      "Dennis",
+      "Jessica"
     ],
     "languages": [],
     "extra": null
