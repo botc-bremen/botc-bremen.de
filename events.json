@@ -1112,7 +1112,10 @@
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
     "url": "https://events.botc-bremen.de/mzh251018/",
-    "storyTellers": [],
+    "storyTellers": [
+      "Dennis",
+      "Sorel"
+    ],
     "languages": [],
     "extra": null
   },
@@ -1131,14 +1134,18 @@
     "extra": null
   },
   {
-    "title": "Halloween-Special",
+    "title": "Halloween-Special (Fortgeschritten)",
     "start": "2025-10-31T12:00:00.000Z",
     "end": "2025-10-31T21:00:00.000Z",
-    "locationUrl": null,
+    "location": "https://www.openstreetmap.org/node/9833701807",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
     "url": "",
-    "storyTellers": [],
+    "storyTellers": [
+      "Dennis",
+      "Jessica"
+    ],
     "languages": [],
-    "extra": "Räumlichkeiten werden noch bekannt gegeben!"
+    "extra": null
   },
   {
     "title": "Überseestadt / jetzt hier",
@@ -1146,9 +1153,10 @@
     "end": "2025-11-06T20:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier251106/",
     "storyTellers": [
-      "Dennis"
+      "Dennis",
+      "Jessica"
     ],
     "languages": [],
     "extra": null
@@ -1159,8 +1167,11 @@
     "end": "2025-11-15T21:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
-    "storyTellers": [],
+    "url": "https://events.botc-bremen.de/mzh251115/",
+    "storyTellers": [
+      "Dennis",
+      "Jessica"
+    ],
     "languages": [],
     "extra": null
   },
@@ -1170,9 +1181,10 @@
     "end": "2025-11-20T20:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier251120/",
     "storyTellers": [
-      "Dennis"
+      "Dennis",
+      "Jessica"
     ],
     "languages": [],
     "extra": null
