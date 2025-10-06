@@ -1108,6 +1108,19 @@
     "extra": null
   },
   {
+    "title": "@FB3-Spieleabend",
+    "start": "2025-10-10T16:00:00.000Z",
+    "end": "2025-10-10T20:00:00.000Z",
+    "location": "MZH 1380/1400, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "Dennis"
+    ],
+    "languages": [],
+    "extra": "Spieleabend der FB3-Stugen mit BotC-Spielrunde."
+  },
+  {
     "title": "Uni Bremen / MZH",
     "start": "2025-10-18T11:00:00.000Z",
     "end": "2025-10-18T20:00:00.000Z",
