@@ -1150,14 +1150,15 @@
   },
   {
     "title": "Halloween-Special (Fortgeschritten)",
-    "start": "2025-10-31T12:00:00.000Z",
-    "end": "2025-10-31T21:00:00.000Z",
+    "start": "2025-10-31T14:00:00.000Z",
+    "end": "2025-10-31T22:00:00.000Z",
     "location": "https://www.openstreetmap.org/node/9833701807",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
     "url": "",
     "storyTellers": [
-      "Dennis",
-      "Jessica"
+      "Clemens",
+      "Emmi",
+      "Lars"
     ],
     "languages": [],
     "extra": null
