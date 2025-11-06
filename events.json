@@ -1171,8 +1171,8 @@
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
     "url": "https://events.botc-bremen.de/jetzthier251106/",
     "storyTellers": [
-      "Dennis",
-      "Jessica"
+      "Clemens",
+      "Dennis"
     ],
     "languages": [],
     "extra": null
@@ -1185,8 +1185,7 @@
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
     "url": "https://events.botc-bremen.de/mzh251115/",
     "storyTellers": [
-      "Dennis",
-      "Jessica"
+      "Dennis"
     ],
     "languages": [],
     "extra": null
@@ -1199,6 +1198,7 @@
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
     "url": "https://events.botc-bremen.de/jetzthier251120/",
     "storyTellers": [
+      "Clemens",
       "Dennis",
       "Jessica"
     ],
