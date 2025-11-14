@@ -1185,7 +1185,8 @@
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
     "url": "https://events.botc-bremen.de/mzh251115/",
     "storyTellers": [
-      "Dennis"
+      "Dennis",
+      "Sorel"
     ],
     "languages": [],
     "extra": null
@@ -1206,13 +1207,28 @@
     "extra": null
   },
   {
+    "title": "VHS / Social Deduction Spieletreff",
+    "start": "2025-11-28T16:30:00.000Z",
+    "end": "2025-11-28T20:30:00.000Z",
+    "location": "Faulenstraße 69, vhs im Bamberger, Raum 309",
+    "locationUrl": null,
+    "url": "https://www.vhs-bremen.de/veranstaltungen/kurs/Social-Deduction-Spieletreff/252M15-403",
+    "storyTellers": [
+      "Sorel"
+    ],
+    "languages": [],
+    "extra": "Spieletreff, mit Fokus abseits von BotC."
+  },
+  {
     "title": "Uni Bremen / MZH",
     "start": "2025-11-29T12:00:00.000Z",
     "end": "2025-11-29T21:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
-    "storyTellers": [],
+    "url": "https://events.botc-bremen.de/mzh251129/",
+    "storyTellers": [
+      "Dennis"
+    ],
     "languages": [],
     "extra": null
   },
@@ -1222,7 +1238,7 @@
     "end": "2025-12-04T20:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier251204/",
     "storyTellers": [
       "Dennis",
       "Jessica"
@@ -1236,12 +1252,25 @@
     "end": "2025-12-18T20:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier251218/",
     "storyTellers": [
       "Dennis",
       "Jessica"
     ],
     "languages": [],
     "extra": null
+  },
+  {
+    "title": "VHS / Social Deduction Spieletreff",
+    "start": "2026-01-16T16:30:00.000Z",
+    "end": "2026-01-16T20:30:00.000Z",
+    "location": "Faulenstraße 69, vhs im Bamberger, Raum 309",
+    "locationUrl": null,
+    "url": "https://www.vhs-bremen.de/veranstaltungen/kurs/Social-Deduction-Spieletreff/252M15-405",
+    "storyTellers": [
+      "Sorel"
+    ],
+    "languages": [],
+    "extra": "Spieletreff, mit Fokus abseits von BotC."
   }
 ]
