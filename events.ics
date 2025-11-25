@@ -294,18 +294,18 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20251116T001857Z
-DTSTAMP:20251116T002116Z
-LAST-MODIFIED:20251116T002116Z
-SEQUENCE:2
+DTSTAMP:20251125T194934Z
+LAST-MODIFIED:20251125T194934Z
+SEQUENCE:3
 UID:555278ac-483d-4f26-bee4-bb79ab618e90
 DTSTART;TZID=Europe/Berlin:20251213T130000
 DTEND;TZID=Europe/Berlin:20251213T220000
 SUMMARY:Uni Bremen / MZH / Weihnachtsfeier
-LOCATION:MZH 1XXX\, Bibliothekstr. 5\, 28359 Bremen
+LOCATION:MZH 1380/1400\, Bibliothekstr. 5\, 28359 Bremen
 DESCRIPTION:LOC: https://www.openstreetmap.org/relation/3293414\nST: Dennis
- \nURL: https://events.botc-bremen.de/mzh251213\n\nWeihnachtsfeier mit Puns
- ch. Bringt gerne Gebäck mit! Raum und tatsächliche Startzeit sind noch n
- icht fest!
+ \nURL: https://events.botc-bremen.de/mzh251213\n\nWeihnachtsfeier mit alko
+ holfreiem Punsch. Bringt gerne Gebäck mit! Der Raum liegt in der Mitte de
+ r Ebene 1 (Holzwände).
 CLASS:PUBLIC
 STATUS:CONFIRMED
 TRANSP:OPAQUE
