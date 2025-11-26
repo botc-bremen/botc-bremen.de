@@ -1234,6 +1234,20 @@
     "extra": null
   },
   {
+    "title": "Weihnachtsfeier jetzt hier - kein BotC",
+    "start": "2025-12-03T15:00:00.000Z",
+    "end": "2025-12-03T18:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "https://events.botc-bremen.de/xmas251203/",
+    "storyTellers": [
+      "Dennis",
+      "Jessica"
+    ],
+    "languages": [],
+    "extra": "Wir sind eingeladen an der Weihnachtsfeier des Jetzt Hier in der Überseestadt teilzunehmen. Es wird kein BotC gespielt."
+  },
+  {
     "title": "Überseestadt / jetzt hier",
     "start": "2025-12-04T16:00:00.000Z",
     "end": "2025-12-04T20:00:00.000Z",

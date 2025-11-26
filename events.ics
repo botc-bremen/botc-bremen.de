@@ -1234,6 +1234,24 @@ SEQUENCE:2
 LAST-MODIFIED:20250616T073330Z
 END:VEVENT
 BEGIN:VEVENT
+CREATED:20251126T094735Z
+DTSTAMP:20251126T094854Z
+LAST-MODIFIED:20251126T094854Z
+SEQUENCE:2
+UID:f3de6e09-be16-4704-a722-0dc17851e55a
+DTSTART;TZID=Europe/Berlin:20251203T160000
+DTEND;TZID=Europe/Berlin:20251203T190000
+SUMMARY:Weihnachtsfeier jetzt hier - kein BotC
+LOCATION:Konsul-Schmidt-Straße 38\, 28217 Bremen
+DESCRIPTION:ST: Dennis\, Jessica\nLOC: https://www.openstreetmap.org/node/9
+ 833701807\nURL: https://events.botc-bremen.de/xmas251203/\n\nWir sind eing
+ eladen an der Weihnachtsfeier des Jetzt Hier in der Überseestadt teilzune
+ hmen. Es wird kein BotC gespielt.
+CLASS:PUBLIC
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20241011T082955Z
 UID:3f26019a-f1da-439f-9bfc-9949d857d937
 SEQUENCE:5
