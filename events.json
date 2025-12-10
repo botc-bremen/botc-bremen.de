@@ -1282,11 +1282,23 @@
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
     "url": "https://events.botc-bremen.de/jetzthier251218/",
     "storyTellers": [
-      "Dennis",
-      "Jessica"
+      "Dennis"
     ],
     "languages": [],
     "extra": null
+  },
+  {
+    "title": "@FB3-Spieleabend",
+    "start": "2026-01-09T15:30:00.000Z",
+    "end": "2026-01-09T20:00:00.000Z",
+    "location": "MZH 1380/1400, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "Dennis"
+    ],
+    "languages": [],
+    "extra": "Offener Spieleabend der FB3-Stugen mit BotC-Spielrunde."
   },
   {
     "title": "VHS / Social Deduction Spieletreff",
@@ -1300,5 +1312,31 @@
     ],
     "languages": [],
     "extra": "Spieletreff, mit Fokus abseits von BotC."
+  },
+  {
+    "title": "VHS / Social Deduction Spieletreff",
+    "start": "2026-02-13T16:30:00.000Z",
+    "end": "2026-02-13T20:30:00.000Z",
+    "location": "Faulenstraße 69, vhs im Bamberger, Raum 309",
+    "locationUrl": null,
+    "url": "https://www.vhs-bremen.de/veranstaltungen/kurs/Social-Deduction-Spieletreff/261M15-406",
+    "storyTellers": [
+      "Sorel"
+    ],
+    "languages": [],
+    "extra": "Spieletreff, mit Fokus abseits von BotC."
+  },
+  {
+    "title": "Schule und Spiel: Großgruppenspiele",
+    "start": "2026-02-17T17:00:00.000Z",
+    "end": "2026-02-17T20:00:00.000Z",
+    "location": "KlimaWerkStadt, Westerstraße 58, 28199 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/5501463083",
+    "url": "https://events.botc-bremen.de/botc260217/",
+    "storyTellers": [
+      "Dennis"
+    ],
+    "languages": [],
+    "extra": "Veranstaltung exklusiv für Lehrkräfte bzw. an Schule arbeitende."
   }
 ]
