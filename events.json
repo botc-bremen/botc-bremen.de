@@ -1301,6 +1301,34 @@
     "extra": "Offener Spieleabend der FB3-Stugen mit BotC-Spielrunde."
   },
   {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-01-10T12:00:00.000Z",
+    "end": "2026-01-10T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh260110/",
+    "storyTellers": [
+      "Clemens",
+      "Dennis"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-01-15T16:00:00.000Z",
+    "end": "2026-01-15T20:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "https://events.botc-bremen.de/jetzthier260115/",
+    "storyTellers": [
+      "Dennis",
+      "Jessica"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
     "title": "VHS / Social Deduction Spieletreff",
     "start": "2026-01-16T16:30:00.000Z",
     "end": "2026-01-16T20:30:00.000Z",
@@ -1312,6 +1340,35 @@
     ],
     "languages": [],
     "extra": "Spieletreff, mit Fokus abseits von BotC."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-01-24T12:00:00.000Z",
+    "end": "2026-01-24T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh260124/",
+    "storyTellers": [
+      "Clemens",
+      "Dennis",
+      "Sorel"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-01-29T16:00:00.000Z",
+    "end": "2026-01-29T20:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "https://events.botc-bremen.de/jetzthier260129/",
+    "storyTellers": [
+      "Dennis",
+      "Jessica"
+    ],
+    "languages": [],
+    "extra": null
   },
   {
     "title": "VHS / Social Deduction Spieletreff",
