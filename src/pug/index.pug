@@ -3,7 +3,7 @@ extends /pug/layouts/base
 append config
     - blockIntroTitle = "Nur ein Spiel ... oder?"
     - blockEventsTitle = "Veranstaltungen"
-    - blockTeamTitle = "Team"
+    - blockTeamTitle = "Storyteller"
     - blockCommunityTitle = "Community"
     - blockLinksTitle = "Ressourcen"
     - blockKoopTitle = "Kooperationen"
@@ -17,7 +17,7 @@ block nav-items
     li.nav-item
         a.nav-link(href='#events') Veranstaltungen
     li.nav-item
-        a.nav-link(href='#team') Team
+        a.nav-link(href='#team') Storyteller
     li.nav-item
         a.nav-link(href='#community') Community
     li.nav-item
@@ -156,7 +156,20 @@ block content
                 .col
                     .p-xl-5.p-2
                         h2.display-4= blockTeamTitle
-                        .row.g-4.row-cols-2.row-cols-lg-3
+                        block teamContent
+                            p
+                                | Hier findest du die regelmäßigen Storyteller und Organisatoren unserer Community.
+                                | Dabei findest du die Einen zu regelmäßigen Terminen an denen sie Runden leiten,
+                                | Andere managen im Hintergrund und spielen auch häufiger selbst,
+                                | und manche sind quasi überall und jederzeit dabei.
+                            p
+                                | Möchtest du selbst auch Verantwortung übernehmen?
+                                | Dann melde dich gerne über die bekannten Kanäle bei uns!
+                        .row.g-4.row-cols-2.row-cols-lg-4
+                            .col
+                                .card.p-2.h-100.front
+                                    .card-img-top.card-title
+                                        include /assets/img/Vector_Storyteller-Icon_Clemens_Ojo.svg
                             .col
                                 .card.p-2.h-100.front
                                     .card-img-top.card-title
@@ -313,7 +326,7 @@ block content
                                             img(src="/assets/img/Kreativ-Spiel-Onlinebanner-400x160px-250721.jpg", alt='Kreativ + Spiel 2025')
                                         .card-body
                                             .card-text
-                                                | Die Kreativ + Spiel findet vom 3. bis 5. Oktober in der MESSE BREMEN statt!
+                                                | Die Kreativ + Spiel 2025 findet vom 3. bis 5. Oktober in der MESSE BREMEN statt!
                                                 | Zum ersten Mal dreht sich hier alles um Hobby, Crafting und Games!
                                                 br
                                                 | Wir bieten an Stand 6H60 an allen Tagen regelmäßig Spielrunden an - kommt vorbei!
