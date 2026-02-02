@@ -1467,6 +1467,32 @@
     "extra": null
   },
   {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-03-07T12:00:00.000Z",
+    "end": "2026-03-07T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "TBA"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-03-12T16:00:00.000Z",
+    "end": "2026-03-12T20:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "TBA"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
     "title": "@FB3-Spieleabend",
     "start": "2026-03-13T15:30:00.000Z",
     "end": "2026-03-13T20:00:00.000Z",
@@ -1478,5 +1504,86 @@
     ],
     "languages": [],
     "extra": "Offener Spieleabend der FB3-Stugen mit BotC-Spielrunde."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-03-21T12:00:00.000Z",
+    "end": "2026-03-21T21:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "TBA"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-03-26T16:00:00.000Z",
+    "end": "2026-03-26T20:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "Dennis",
+      "Jessica"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-04-04T11:00:00.000Z",
+    "end": "2026-04-04T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "TBA"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-04-09T15:00:00.000Z",
+    "end": "2026-04-09T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "Dennis",
+      "Jessica"
+    ],
+    "languages": [],
+    "extra": "Entfällt ggf. bzw. könnte an die Uni verschoben werden, da wir am selben Tag zum Spieleabend in der Orientierungswoche an der Uni eingeladen sind."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-04-18T11:00:00.000Z",
+    "end": "2026-04-18T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "TBA"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-04-23T15:00:00.000Z",
+    "end": "2026-04-23T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "Dennis",
+      "Jessica"
+    ],
+    "languages": [],
+    "extra": null
   }
 ]
