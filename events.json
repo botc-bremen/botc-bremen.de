@@ -1451,15 +1451,27 @@
     "extra": "Veranstaltung exklusiv für Lehrkräfte bzw. an Schule arbeitende."
   },
   {
+    "title": "@Physik-Spieleabend",
+    "start": "2026-02-18T15:00:00.000Z",
+    "end": "2026-02-18T19:00:00.000Z",
+    "location": "NW1 Studierhaus (Erdgeschoss links), Otto-Hahn-Allee 1, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/2912378",
+    "url": "https://www.instagram.com/p/DUvhfAQCPoS/",
+    "storyTellers": [
+      "Dennis"
+    ],
+    "languages": [],
+    "extra": "Offener Spieleabend des StugA Physik mit BotC-Spielrunde."
+  },
+  {
     "title": "Uni Bremen / MZH",
     "start": "2026-02-21T12:00:00.000Z",
     "end": "2026-02-21T21:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260221/",
     "storyTellers": [
-      "Clemens",
-      "TBA"
+      "Clemens"
     ],
     "languages": [],
     "extra": null
