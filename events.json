@@ -1513,7 +1513,8 @@
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
     "url": "",
     "storyTellers": [
-      "TBA"
+      "Clemens",
+      "Dennis"
     ],
     "languages": [],
     "extra": null
@@ -1526,6 +1527,7 @@
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
     "url": "https://events.botc-bremen.de/jetzthier260312/",
     "storyTellers": [
+      "Clemens",
       "Gerrit"
     ],
     "languages": [],
