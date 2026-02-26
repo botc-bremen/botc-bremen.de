@@ -1562,6 +1562,19 @@
     "extra": "Offener Spieleabend der FB3-Stugen mit BotC-Spielrunde."
   },
   {
+    "title": "VHS / Social Deduction Spieletreff",
+    "start": "2026-03-13T16:30:00.000Z",
+    "end": "2026-03-13T20:30:00.000Z",
+    "location": "Faulenstraße 69, vhs im Bamberger, Raum 309",
+    "locationUrl": null,
+    "url": "https://www.vhs-bremen.de/veranstaltungen/kurs/Social-Deduction-Spieletreff/261M15-407",
+    "storyTellers": [
+      "Sorel"
+    ],
+    "languages": [],
+    "extra": "Spieletreff, mit Fokus abseits von BotC."
+  },
+  {
     "title": "Uni Bremen / MZH",
     "start": "2026-03-21T12:00:00.000Z",
     "end": "2026-03-21T21:00:00.000Z",
@@ -1603,6 +1616,19 @@
     "extra": null
   },
   {
+    "title": "@FB3-Spieleabend (SoSe O-Woche)",
+    "start": "2026-04-02T16:00:00.000Z",
+    "end": "2026-04-02T20:00:00.000Z",
+    "location": "MZH 1380/1400, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh260402/",
+    "storyTellers": [
+      "vmtl. Dennis"
+    ],
+    "languages": [],
+    "extra": "Offener Spieleabend der FB3-Stugen mit BotC-Spielrunde."
+  },
+  {
     "title": "Uni Bremen / MZH",
     "start": "2026-04-04T11:00:00.000Z",
     "end": "2026-04-04T20:00:00.000Z",
@@ -1621,13 +1647,27 @@
     "end": "2026-04-09T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier260409/",
     "storyTellers": [
       "Dennis",
+      "Gerrit",
       "Jessica"
     ],
     "languages": [],
-    "extra": "Entfällt ggf. bzw. könnte an die Uni verschoben werden, da wir am selben Tag zum Spieleabend in der Orientierungswoche an der Uni eingeladen sind."
+    "extra": null
+  },
+  {
+    "title": "VHS / Social Deduction Spieletreff",
+    "start": "2026-04-17T15:30:00.000Z",
+    "end": "2026-04-17T19:30:00.000Z",
+    "location": "Faulenstraße 69, vhs im Bamberger, Raum 309",
+    "locationUrl": null,
+    "url": "https://www.vhs-bremen.de/veranstaltungen/kurs/Social-Deduction-Spieletreff/261M15-408",
+    "storyTellers": [
+      "Sorel"
+    ],
+    "languages": [],
+    "extra": "Spieletreff, mit Fokus abseits von BotC."
   },
   {
     "title": "Uni Bremen / MZH",
@@ -1648,12 +1688,38 @@
     "end": "2026-04-23T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier260423/",
     "storyTellers": [
       "Dennis",
-      "Jessica"
+      "Gerrit"
     ],
     "languages": [],
     "extra": null
+  },
+  {
+    "title": "@ONOC (vorläufig)",
+    "start": "2026-06-05T16:00:00.000Z",
+    "end": "2026-06-06T02:00:00.000Z",
+    "location": "MZH, Ebene 0",
+    "locationUrl": null,
+    "url": "https://onoc.eu",
+    "storyTellers": [
+      "Dennis"
+    ],
+    "languages": [],
+    "extra": "Offene Programmiernacht im MZH. Wir können uns am Rande aber auch zu einer Runde BotC verabreden."
+  },
+  {
+    "title": "VHS / Social Deduction Spieletreff",
+    "start": "2026-06-19T15:30:00.000Z",
+    "end": "2026-06-19T19:30:00.000Z",
+    "location": "Faulenstraße 69, vhs im Bamberger, Raum 309",
+    "locationUrl": null,
+    "url": "https://www.vhs-bremen.de/veranstaltungen/kurs/Social-Deduction-Spieletreff/261M15-409",
+    "storyTellers": [
+      "Sorel"
+    ],
+    "languages": [],
+    "extra": "Spieletreff, mit Fokus abseits von BotC."
   }
 ]
