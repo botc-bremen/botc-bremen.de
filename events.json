@@ -1511,13 +1511,28 @@
     "end": "2026-03-07T21:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260307/",
     "storyTellers": [
       "Clemens",
-      "Dennis"
+      "Dennis",
+      "Lars"
     ],
     "languages": [],
     "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-03-11T16:00:00.000Z",
+    "end": "2026-03-11T21:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260311/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
   },
   {
     "title": "Überseestadt / jetzt hier",
@@ -1539,7 +1554,7 @@
     "end": "2026-03-13T20:00:00.000Z",
     "location": "MZH 1380/1400, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260313/",
     "storyTellers": [
       "Dennis"
     ],
@@ -1560,12 +1575,26 @@
     "extra": null
   },
   {
+    "title": "Ravenswood Remote",
+    "start": "2026-03-25T16:00:00.000Z",
+    "end": "2026-03-25T21:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260325/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
     "title": "Überseestadt / jetzt hier",
     "start": "2026-03-26T16:00:00.000Z",
     "end": "2026-03-26T20:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier260326/",
     "storyTellers": [
       "Dennis",
       "Jessica"
