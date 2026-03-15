@@ -1580,9 +1580,9 @@
     "end": "2026-03-21T21:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260321/",
     "storyTellers": [
-      "TBA"
+      "Dennis"
     ],
     "languages": [],
     "extra": null
@@ -1623,7 +1623,8 @@
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
     "url": "https://events.botc-bremen.de/mzh260402/",
     "storyTellers": [
-      "vmtl. Dennis"
+      "Dennis",
+      "Gerrit"
     ],
     "languages": [],
     "extra": "Offener Spieleabend der FB3-Stugen mit BotC-Spielrunde."
@@ -1631,15 +1632,15 @@
   {
     "title": "Uni Bremen / MZH",
     "start": "2026-04-04T11:00:00.000Z",
-    "end": "2026-04-04T20:00:00.000Z",
+    "end": "2026-04-04T18:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260404/",
     "storyTellers": [
-      "TBA"
+      "Dennis"
     ],
     "languages": [],
-    "extra": null
+    "extra": "Bei geringer Anmeldezahl behalten wir uns eine Absage vor."
   },
   {
     "title": "Überseestadt / jetzt hier",
@@ -1675,9 +1676,10 @@
     "end": "2026-04-18T20:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260418/",
     "storyTellers": [
-      "TBA"
+      "Dennis",
+      "Lars"
     ],
     "languages": [],
     "extra": null
@@ -1697,6 +1699,84 @@
     "extra": null
   },
   {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-05-02T11:00:00.000Z",
+    "end": "2026-05-02T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "TBD"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-05-07T15:00:00.000Z",
+    "end": "2026-05-07T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "TBD"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-05-16T11:00:00.000Z",
+    "end": "2026-05-16T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "TBD"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-05-21T15:00:00.000Z",
+    "end": "2026-05-21T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "TBD"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-05-30T11:00:00.000Z",
+    "end": "2026-05-30T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "TBD"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-06-04T15:00:00.000Z",
+    "end": "2026-06-04T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "TBD"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
     "title": "@ONOC (vorläufig)",
     "start": "2026-06-05T16:00:00.000Z",
     "end": "2026-06-06T02:00:00.000Z",
@@ -1710,6 +1790,32 @@
     "extra": "Offene Programmiernacht im MZH. Wir können uns am Rande aber auch zu einer Runde BotC verabreden."
   },
   {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-06-13T11:00:00.000Z",
+    "end": "2026-06-13T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "TBD"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-06-18T15:00:00.000Z",
+    "end": "2026-06-18T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "TBD"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
     "title": "VHS / Social Deduction Spieletreff",
     "start": "2026-06-19T15:30:00.000Z",
     "end": "2026-06-19T19:30:00.000Z",
@@ -1721,5 +1827,18 @@
     ],
     "languages": [],
     "extra": "Spieletreff, mit Fokus abseits von BotC."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-06-27T11:00:00.000Z",
+    "end": "2026-06-27T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "TBD"
+    ],
+    "languages": [],
+    "extra": null
   }
 ]
