@@ -1812,7 +1812,7 @@
     "title": "Uni Bremen / MZH",
     "start": "2026-05-16T11:00:00.000Z",
     "end": "2026-05-16T20:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "location": "MZH 1380/1400, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
     "url": "",
     "storyTellers": [
@@ -1874,11 +1874,11 @@
     "extra": "Offene Programmiernacht im MZH. Wir können uns am Rande aber auch zu einer Runde BotC verabreden."
   },
   {
-    "title": "Uni Bremen / MZH",
+    "title": "Unisee Open Air",
     "start": "2026-06-13T11:00:00.000Z",
-    "end": "2026-06-13T20:00:00.000Z",
-    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
-    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "end": "2026-06-13T19:00:00.000Z",
+    "location": "Liegewiese am Stadtwaldsee (Unisee), 28259 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/way/23321551",
     "url": "",
     "storyTellers": [
       "TBD"
@@ -1931,6 +1931,19 @@
     "end": "2026-07-02T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "TBD"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-07-11T11:00:00.000Z",
+    "end": "2026-07-11T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
     "url": "",
     "storyTellers": [
       "TBD"
