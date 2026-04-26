@@ -1788,9 +1788,10 @@
     "end": "2026-05-02T20:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260502/",
     "storyTellers": [
-      "TBD"
+      "Dennis",
+      "Gerrit"
     ],
     "languages": [],
     "extra": null
@@ -1801,9 +1802,12 @@
     "end": "2026-05-07T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier260507/",
     "storyTellers": [
-      "TBD"
+      "Clemens",
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
     ],
     "languages": [],
     "extra": null
@@ -1814,9 +1818,10 @@
     "end": "2026-05-16T20:00:00.000Z",
     "location": "MZH 1380/1400, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260516/",
     "storyTellers": [
-      "TBD"
+      "Clemens",
+      "Gerrit"
     ],
     "languages": [],
     "extra": null
@@ -1827,9 +1832,12 @@
     "end": "2026-05-21T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier260521/",
     "storyTellers": [
-      "TBD"
+      "Clemens",
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
     ],
     "languages": [],
     "extra": null
