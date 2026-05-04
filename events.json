@@ -1797,6 +1797,20 @@
     "extra": null
   },
   {
+    "title": "Ravenswood Remote",
+    "start": "2026-05-04T16:00:00.000Z",
+    "end": "2026-05-04T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260504/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
     "title": "Überseestadt / jetzt hier",
     "start": "2026-05-07T15:00:00.000Z",
     "end": "2026-05-07T19:00:00.000Z",
@@ -1811,6 +1825,20 @@
     ],
     "languages": [],
     "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-05-12T16:00:00.000Z",
+    "end": "2026-05-12T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260512/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
   },
   {
     "title": "Uni Bremen / MZH",
