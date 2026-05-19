@@ -1890,7 +1890,7 @@
     "end": "2026-05-26T20:00:00.000Z",
     "location": "Online / botc.app",
     "locationUrl": "https://botc.app",
-    "url": "",
+    "url": "https://events.botc-bremen.de/digi260526/",
     "storyTellers": [
       "Clemens",
       "Sebastian"
@@ -1904,9 +1904,11 @@
     "end": "2026-05-30T20:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260530/",
     "storyTellers": [
-      "TBD"
+      "Clemens",
+      "Gerrit",
+      "Lars"
     ],
     "languages": [],
     "extra": null
@@ -1917,7 +1919,7 @@
     "end": "2026-06-01T20:00:00.000Z",
     "location": "Online / botc.app",
     "locationUrl": "https://botc.app",
-    "url": "",
+    "url": "https://events.botc-bremen.de/digi260601/",
     "storyTellers": [
       "Clemens",
       "Sebastian"
@@ -1931,9 +1933,12 @@
     "end": "2026-06-04T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier260604/",
     "storyTellers": [
-      "TBD"
+      "Clemens",
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
     ],
     "languages": [],
     "extra": null
@@ -1957,7 +1962,7 @@
     "end": "2026-06-09T20:00:00.000Z",
     "location": "Online / botc.app",
     "locationUrl": "https://botc.app",
-    "url": "",
+    "url": "https://events.botc-bremen.de/digi260609/",
     "storyTellers": [
       "Clemens",
       "Sebastian"
@@ -1984,7 +1989,7 @@
     "end": "2026-06-15T20:00:00.000Z",
     "location": "Online / botc.app",
     "locationUrl": "https://botc.app",
-    "url": "",
+    "url": "https://events.botc-bremen.de/digi260615/",
     "storyTellers": [
       "Clemens",
       "Sebastian"
@@ -1998,9 +2003,12 @@
     "end": "2026-06-18T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier260618/",
     "storyTellers": [
-      "TBD"
+      "Clemens",
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
     ],
     "languages": [],
     "extra": null
@@ -2024,7 +2032,7 @@
     "end": "2026-06-23T20:00:00.000Z",
     "location": "Online / botc.app",
     "locationUrl": "https://botc.app",
-    "url": "",
+    "url": "https://events.botc-bremen.de/digi260623/",
     "storyTellers": [
       "Clemens",
       "Sebastian"
@@ -2051,7 +2059,7 @@
     "end": "2026-06-29T20:00:00.000Z",
     "location": "Online / botc.app",
     "locationUrl": "https://botc.app",
-    "url": "",
+    "url": "https://events.botc-bremen.de/digi260629/",
     "storyTellers": [
       "Clemens",
       "Sebastian"
@@ -2065,9 +2073,12 @@
     "end": "2026-07-02T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier260702/",
     "storyTellers": [
-      "TBD"
+      "Clemens",
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
     ],
     "languages": [],
     "extra": null
