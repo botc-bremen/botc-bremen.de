@@ -2007,7 +2007,6 @@
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
     "url": "https://events.botc-bremen.de/jetzthier260618/",
     "storyTellers": [
-      "Clemens",
       "Dennis",
       "Gerrit",
       "Sebastian"
@@ -2048,9 +2047,10 @@
     "end": "2026-06-27T20:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260627/",
     "storyTellers": [
-      "TBD"
+      "Dennis",
+      "Gerrit"
     ],
     "languages": [],
     "extra": null
@@ -2077,13 +2077,12 @@
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
     "url": "https://events.botc-bremen.de/jetzthier260702/",
     "storyTellers": [
-      "Clemens",
       "Dennis",
       "Gerrit",
       "Sebastian"
     ],
     "languages": [],
-    "extra": null
+    "extra": "Geburtstags-Spezialtermin von Sebastian."
   },
   {
     "title": "Uni Bremen / MZH",
