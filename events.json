@@ -2049,8 +2049,7 @@
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
     "url": "https://events.botc-bremen.de/mzh260627/",
     "storyTellers": [
-      "Dennis",
-      "Gerrit"
+      "Dennis"
     ],
     "languages": [],
     "extra": null
@@ -2078,11 +2077,10 @@
     "url": "https://events.botc-bremen.de/jetzthier260702/",
     "storyTellers": [
       "Dennis",
-      "Gerrit",
-      "Sebastian"
+      "Gerrit"
     ],
     "languages": [],
-    "extra": "Geburtstags-Spezialtermin von Sebastian."
+    "extra": null
   },
   {
     "title": "Uni Bremen / MZH",
@@ -2103,11 +2101,13 @@
     "end": "2026-07-16T19:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier260716/",
     "storyTellers": [
-      "TBD"
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
     ],
     "languages": [],
-    "extra": null
+    "extra": "Geburtstags-Spezialtermin von Sebastian."
   }
 ]
