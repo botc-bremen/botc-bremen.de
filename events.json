@@ -2083,6 +2083,20 @@
     "extra": null
   },
   {
+    "title": "Ravenswood Remote",
+    "start": "2026-07-07T16:00:00.000Z",
+    "end": "2026-07-07T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260707/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
     "title": "Uni Bremen / MZH",
     "start": "2026-07-11T11:00:00.000Z",
     "end": "2026-07-11T20:00:00.000Z",
@@ -2094,6 +2108,20 @@
     ],
     "languages": [],
     "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-07-13T16:00:00.000Z",
+    "end": "2026-07-13T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260713/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
   },
   {
     "title": "Überseestadt / jetzt hier",
@@ -2109,5 +2137,48 @@
     ],
     "languages": [],
     "extra": "Geburtstags-Spezialtermin von Sebastian."
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-07-21T16:00:00.000Z",
+    "end": "2026-07-21T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260721/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-07-25T11:00:00.000Z",
+    "end": "2026-07-25T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": "URL:"
+  },
+  {
+    "title": "Überseestadt / Überseewiese",
+    "start": "2026-07-30T15:00:00.000Z",
+    "end": "2026-07-30T19:00:00.000Z",
+    "location": "Überseewiese, Konsul-Schmidt-Straße, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/way/290995428",
+    "url": "https://events.botc-bremen.de/botc260730/",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": null
   }
 ]
