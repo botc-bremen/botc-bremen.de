@@ -2158,13 +2158,27 @@
     "end": "2026-07-25T20:00:00.000Z",
     "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh260725/",
     "storyTellers": [
       "Dennis",
       "Gerrit"
     ],
     "languages": [],
-    "extra": "URL:"
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-07-27T16:00:00.000Z",
+    "end": "2026-07-27T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260727/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
   },
   {
     "title": "Überseestadt / Überseewiese",
@@ -2177,6 +2191,117 @@
       "Dennis",
       "Gerrit",
       "Sebastian"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-08-04T16:00:00.000Z",
+    "end": "2026-08-04T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260804/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-08-08T11:00:00.000Z",
+    "end": "2026-08-08T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh260808/",
+    "storyTellers": [
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-08-10T16:00:00.000Z",
+    "end": "2026-08-10T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260810/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-08-13T15:00:00.000Z",
+    "end": "2026-08-13T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "https://events.botc-bremen.de/jetzthier260813/",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-08-18T16:00:00.000Z",
+    "end": "2026-08-18T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260818/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Stadtwaldsee / Unisee",
+    "start": "2026-08-22T11:00:00.000Z",
+    "end": "2026-08-22T18:00:00.000Z",
+    "location": "Liegewiese Sandstrand am Stadtwaldsee / Unisee, 28359 Bremen",
+    "locationUrl": "https://what3words.com/krimi.annehmen.ohren",
+    "url": "https://events.botc-bremen.de/unisee260822/",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-08-24T16:00:00.000Z",
+    "end": "2026-08-24T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260824/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-08-27T15:00:00.000Z",
+    "end": "2026-08-27T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "https://events.botc-bremen.de/jetzthier260827/",
+    "storyTellers": [
+      "Dennis"
     ],
     "languages": [],
     "extra": null
