@@ -1,12 +1,25 @@
-// 
+//
 // Global
-// 
+//
 
 // Scroll padding for all scroll targets on page used with
 // native CSS smooth scrolling
-// 
+//
 // https://caniuse.com/?search=scroll-padding
 
 html {
     scroll-padding-top: 67px;
+}
+
+// Use flexbox to put the footer at the bottom of the page
+// instead of directly below the content with potential
+// whitespace below it
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100dvh;
+}
+
+section {
+    flex: 1;
 }
