@@ -19980,6 +19980,16 @@ html {
   scroll-padding-top: 67px;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+}
+
+section {
+  flex: 1;
+}
+
 .btn-xl {
   text-transform: uppercase;
   padding: 1.5rem 3rem;
