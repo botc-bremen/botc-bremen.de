@@ -1,0 +1,61 @@
+extends /pug/layouts/base
+block head
+    title Wartung | Blood on the Clocktower Bremen & Umzu
+
+block nav-items
+    li.nav-item
+        a.nav-link(href='/') Hauptseite
+
+block content
+    section.mt-5#bottom
+        .container.px-xl-5.px-3
+            .row.gx-5
+                .col-lg-6
+                    .py-5.px-xl-5.px-0
+                        h2.display-4 Wartungsarbeiten
+
+                        p.mb-2.lead Geplante Wartung am Do, 23.07.2026, ab ca. 8 Uhr
+                        p.mb-2 Es finden geplante Wartungsarbeiten an der Stromversorgung am Serverstandort des Anmeldesystems statt. In dieser Zeit ist das Anmeldesystem leider nicht verfügbar."
+                        p.mb-0 Die Arbeiten sollten bis spätestens 18 Uhr abgeschlossen sein. Falls die Arbeiten früher abgeschlossen sind wird auch das Anmeldesystem früher wieder bereit stehen.
+
+                        .text-center.mt-3
+                            img(src='https://release.botc.app/resources/characters/carousel/goblin_e.webp', style='object-fit:cover;height:150px;width:400px;')
+
+                .col-lg-6
+                    .py-5.px-xl-5.px-0
+                        h2.display-4 Community
+
+                        p.mb-0 Für aktuelle Updates beachte unsere direkten Kanäle:
+                        ul.list-group.list-group-flush
+                            block blockCommunityContent
+                                li.list-group-item
+                                    .row.align-items-center
+                                        i.col-1.p-0.fs-1.bi.bi-discord
+                                        .col
+                                            | Tritt unserem Discord-Server bei:
+                                            br
+                                            a(href='/discord', target='_blank') https://botc-bremen.de/discord
+                                li.list-group-item
+                                    .row.align-items-center
+                                        i.col-1.p-0.fs-1.bi.bi-whatsapp
+                                        .col
+                                            | Du möchtest Teil der WhatsApp-Gruppen werden?
+                                            br
+                                            | Schreibe uns eine Nachricht:
+                                            a(href='https://wa.me/4915678390797', target='_blank') +49 15678 390797
+                                li.list-group-item
+                                    .row.align-items-center
+                                        i.col-1.p-0.fs-1.bi.bi-telegram
+                                        .col
+                                            | Ankündigungen auch auf Telegram abonnieren:
+                                            br
+                                            a(href='/telegram', target='_blank') https://botc-bremen.de/telegram
+                                li.list-group-item
+                                    .row.align-items-center
+                                        i.col-1.p-0.fs-1.bi.bi-envelope-fill
+                                        .col
+                                            | Kontaktiere das
+                                            a(href='#team') Team
+                                            | gerne per
+                                            a(href='mailto:info@botc-bremen.de') E-Mail
+                                            | für weitere Fragen, Anregungen oder sonstige Anliegen.
