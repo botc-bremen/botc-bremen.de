@@ -2305,5 +2305,129 @@
     ],
     "languages": [],
     "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-09-01T16:00:00.000Z",
+    "end": "2026-09-01T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260901/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-09-05T11:00:00.000Z",
+    "end": "2026-09-05T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh260905/",
+    "storyTellers": [
+      "Lars"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-09-07T16:00:00.000Z",
+    "end": "2026-09-07T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260907/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-09-10T15:00:00.000Z",
+    "end": "2026-09-10T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "https://events.botc-bremen.de/jetzthier260910/",
+    "storyTellers": [
+      "Juri",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-09-15T16:00:00.000Z",
+    "end": "2026-09-15T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260915/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-09-19T11:00:00.000Z",
+    "end": "2026-09-19T20:00:00.000Z",
+    "location": "MZH 1460, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh260919/",
+    "storyTellers": [
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-09-21T16:00:00.000Z",
+    "end": "2026-09-21T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260921/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-09-24T15:00:00.000Z",
+    "end": "2026-09-24T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "https://events.botc-bremen.de/jetzthier260924/",
+    "storyTellers": [
+      "Gerrit",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-09-29T16:00:00.000Z",
+    "end": "2026-09-29T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi260929/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
   }
 ]
