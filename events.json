@@ -2429,5 +2429,132 @@
     ],
     "languages": [],
     "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-10-03T11:00:00.000Z",
+    "end": "2026-10-03T20:00:00.000Z",
+    "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh261003/",
+    "storyTellers": [
+      "Gerrit",
+      "Lars"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-10-05T16:00:00.000Z",
+    "end": "2026-10-05T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi261005/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-10-08T15:00:00.000Z",
+    "end": "2026-10-08T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "https://events.botc-bremen.de/jetzthier261008/",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "BLOCKER TBD: @FB3-Spieleabend (WiSe O-Woche)",
+    "start": "2026-10-09T15:00:00.000Z",
+    "end": "2026-10-09T19:00:00.000Z",
+    "location": "MZH 1380/1400, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "TBA"
+    ],
+    "languages": [],
+    "extra": "Offener Spieleabend der FB3-Stugen in der Orientierungswoche des WiSe mit BotC-Spielrunde."
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-10-13T16:00:00.000Z",
+    "end": "2026-10-13T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi261013/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-10-17T11:00:00.000Z",
+    "end": "2026-10-17T20:00:00.000Z",
+    "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh261017/",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": "Mit dedizierter Runde für Einsteiger:innen - erlebe BotC zum ersten Mal!"
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-10-19T16:00:00.000Z",
+    "end": "2026-10-19T20:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi261019/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-10-22T15:00:00.000Z",
+    "end": "2026-10-22T19:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "https://events.botc-bremen.de/jetzthier261022/",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-10-27T17:00:00.000Z",
+    "end": "2026-10-27T21:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi261027/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
   }
 ]
