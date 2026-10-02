@@ -264,17 +264,17 @@ LAST-MODIFIED:20250506T100508Z
 END:VEVENT
 BEGIN:VEVENT
 CREATED:20260928T121438Z
-DTSTAMP:20260928T133603Z
-LAST-MODIFIED:20260928T133603Z
-SEQUENCE:3
+DTSTAMP:20261002T121623Z
+LAST-MODIFIED:20261002T121623Z
+SEQUENCE:4
 UID:150bfbe1-e01e-4396-b928-a5780243e051
 DTSTART;TZID=Europe/Berlin:20261009T170000
 DTEND;TZID=Europe/Berlin:20261009T210000
-SUMMARY:BLOCKER TBD: @FB3-Spieleabend (WiSe O-Woche)
+SUMMARY:@FB3-Spieleabend (WiSe O-Woche)
 LOCATION:MZH 1380/1400\, Bibliothekstr. 5\, 28359 Bremen
-DESCRIPTION:LOC: https://www.openstreetmap.org/relation/3293414\nST: TBA\n\
- nOffener Spieleabend der FB3-Stugen in der Orientierungswoche des WiSe mit
-  BotC-Spielrunde.
+DESCRIPTION:LOC: https://www.openstreetmap.org/relation/3293414\nST: Dennis
+ \nURL: https://events.botc-bremen.de/mzh261009/\n\nOffener Spieleabend der
+  FB3-Stugen in der Orientierungswoche des WiSe mit BotC-Spielrunde.
 CLASS:PUBLIC
 STATUS:CONFIRMED
 TRANSP:OPAQUE

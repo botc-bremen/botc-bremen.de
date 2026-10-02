@@ -2474,14 +2474,14 @@
     "extra": null
   },
   {
-    "title": "BLOCKER TBD: @FB3-Spieleabend (WiSe O-Woche)",
+    "title": "@FB3-Spieleabend (WiSe O-Woche)",
     "start": "2026-10-09T15:00:00.000Z",
     "end": "2026-10-09T19:00:00.000Z",
     "location": "MZH 1380/1400, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh261009/",
     "storyTellers": [
-      "TBA"
+      "Dennis"
     ],
     "languages": [],
     "extra": "Offener Spieleabend der FB3-Stugen in der Orientierungswoche des WiSe mit BotC-Spielrunde."
