@@ -2543,5 +2543,33 @@
     ],
     "languages": [],
     "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
+    "title": "Halloween-Special (mit Party)",
+    "start": "2026-10-31T13:00:00.000Z",
+    "end": "2026-10-31T21:00:00.000Z",
+    "location": "MZH 1380/1400, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "https://events.botc-bremen.de/mzh261031/",
+    "storyTellers": [
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": "Verkleidungen optional, aber gern gesehen. ;D"
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-11-05T16:00:00.000Z",
+    "end": "2026-11-05T20:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "https://events.botc-bremen.de/jetzthier261105/",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Mit Einstiegsrunde in Bad Moon Rising."
   }
 ]
