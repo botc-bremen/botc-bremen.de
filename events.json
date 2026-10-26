@@ -2571,5 +2571,113 @@
     ],
     "languages": [],
     "extra": "Mit Einstiegsrunde in Bad Moon Rising."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-11-14T12:00:00.000Z",
+    "end": "2026-11-14T21:00:00.000Z",
+    "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-11-19T16:00:00.000Z",
+    "end": "2026-11-19T20:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-11-28T12:00:00.000Z",
+    "end": "2026-11-28T21:00:00.000Z",
+    "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-12-03T16:00:00.000Z",
+    "end": "2026-12-03T20:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2026-12-12T12:00:00.000Z",
+    "end": "2026-12-12T21:00:00.000Z",
+    "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "Überseestadt / jetzt hier",
+    "start": "2026-12-17T16:00:00.000Z",
+    "end": "2026-12-17T20:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": null
+  },
+  {
+    "title": "TBD Überseestadt / jetzt hier",
+    "start": "2026-12-31T16:00:00.000Z",
+    "end": "2026-12-31T20:00:00.000Z",
+    "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/node/9833701807",
+    "url": "",
+    "storyTellers": [],
+    "languages": [],
+    "extra": "Termin noch nicht gesichert. Gibt es Intreresse? Beteiligt euch ab Ende November an der Umfrage auf Discord/WhatsApp oder kontaktiert Dennis."
+  },
+  {
+    "title": "Uni Bremen / MZH",
+    "start": "2027-01-09T12:00:00.000Z",
+    "end": "2027-01-09T21:00:00.000Z",
+    "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
+    "locationUrl": "https://www.openstreetmap.org/relation/3293414",
+    "url": "",
+    "storyTellers": [
+      "Dennis",
+      "Gerrit"
+    ],
+    "languages": [],
+    "extra": null
   }
 ]
