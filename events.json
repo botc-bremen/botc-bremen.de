@@ -2558,6 +2558,20 @@
     "extra": "Verkleidungen optional, aber gern gesehen. ;D"
   },
   {
+    "title": "Ravenswood Remote",
+    "start": "2026-11-02T17:00:00.000Z",
+    "end": "2026-11-02T21:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi261102/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
+  },
+  {
     "title": "Überseestadt / jetzt hier",
     "start": "2026-11-05T16:00:00.000Z",
     "end": "2026-11-05T20:00:00.000Z",
@@ -2570,7 +2584,21 @@
       "Sebastian"
     ],
     "languages": [],
-    "extra": "Mit Einstiegsrunde in Bad Moon Rising."
+    "extra": "Mit Einstiegsrunde in Bad Moon Rising sowie einer zweiten Runde."
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-11-10T17:00:00.000Z",
+    "end": "2026-11-10T21:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi261110/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
   },
   {
     "title": "Uni Bremen / MZH",
@@ -2578,13 +2606,27 @@
     "end": "2026-11-14T21:00:00.000Z",
     "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh261114/",
     "storyTellers": [
       "Dennis",
       "Gerrit"
     ],
     "languages": [],
-    "extra": null
+    "extra": "Mit dedizierter Runde für Einsteiger:innen - erlebe BotC zum ersten Mal!"
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-11-16T17:00:00.000Z",
+    "end": "2026-11-16T21:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi261116/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
   },
   {
     "title": "Überseestadt / jetzt hier",
@@ -2592,14 +2634,28 @@
     "end": "2026-11-19T20:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier261119/",
     "storyTellers": [
       "Dennis",
       "Gerrit",
       "Sebastian"
     ],
     "languages": [],
-    "extra": null
+    "extra": "Mit Einstiegsrunde in Bad Moon Rising sowie einer zweiten Runde."
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-11-24T17:00:00.000Z",
+    "end": "2026-11-24T21:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi261124/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
   },
   {
     "title": "Uni Bremen / MZH",
@@ -2607,12 +2663,26 @@
     "end": "2026-11-28T21:00:00.000Z",
     "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh261128/",
     "storyTellers": [
       "Gerrit"
     ],
     "languages": [],
     "extra": null
+  },
+  {
+    "title": "Ravenswood Remote",
+    "start": "2026-11-30T17:00:00.000Z",
+    "end": "2026-11-30T21:00:00.000Z",
+    "location": "Online / botc.app",
+    "locationUrl": "https://botc.app",
+    "url": "https://events.botc-bremen.de/digi261130/",
+    "storyTellers": [
+      "Clemens",
+      "Sebastian"
+    ],
+    "languages": [],
+    "extra": "Bitte vorab einen kostenfreien Account anlegen."
   },
   {
     "title": "Überseestadt / jetzt hier",
@@ -2620,13 +2690,13 @@
     "end": "2026-12-03T20:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier261203/",
     "storyTellers": [
       "Dennis",
       "Gerrit"
     ],
     "languages": [],
-    "extra": null
+    "extra": "Mit Einstiegsrunde in Sects & Violets sowie einer zweiten Runde."
   },
   {
     "title": "Uni Bremen / MZH",
@@ -2634,7 +2704,7 @@
     "end": "2026-12-12T21:00:00.000Z",
     "location": "MZH 1090, Bibliothekstr. 5, 28359 Bremen",
     "locationUrl": "https://www.openstreetmap.org/relation/3293414",
-    "url": "",
+    "url": "https://events.botc-bremen.de/mzh261212/",
     "storyTellers": [
       "Gerrit"
     ],
@@ -2647,13 +2717,13 @@
     "end": "2026-12-17T20:00:00.000Z",
     "location": "Konsul-Schmidt-Straße 38, 28217 Bremen",
     "locationUrl": "https://www.openstreetmap.org/node/9833701807",
-    "url": "",
+    "url": "https://events.botc-bremen.de/jetzthier261217/",
     "storyTellers": [
       "Dennis",
       "Gerrit"
     ],
     "languages": [],
-    "extra": null
+    "extra": "Jahresausklang / gemütliche Weihnachtsfeier"
   },
   {
     "title": "TBD Überseestadt / jetzt hier",
